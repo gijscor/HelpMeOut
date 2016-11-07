@@ -1,5 +1,5 @@
 ## Project name: HELP ME OUT 
-## Written by: Ali Atrash
+## Names: Ali, Sarea and Zaher
 
 ## Application goal: 
 To offer online users a platform to connect if they need / want to offer any kind of help ranging from helping in household tasks to helping elderlies doing their shopping, and from teaching / learning students to consultation on various affairs. Pretty much everything in which people would need any help. 
