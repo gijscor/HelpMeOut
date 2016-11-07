@@ -1,18 +1,24 @@
+## Project name: HELP ME OUT 
+## Written by: Ali Atrash
+
+## Application goal: 
+To offer online users a platform to connect if they need / want to offer any kind of help ranging from helping in household tasks to helping elderlies doing their shopping, and from teaching / learning students to consultation on various affairs. Pretty much everything in which people would need any help. 
+
 ## What problem the project is solving? 
-The idea of the project is to build a connection platform to bring together people who need any sort of help with people who can offer help within a particular town/city.
+The project is a web application that will enable people getting the help they seek in anything they wish. It will bring together people who need any sort of help with people who can offer the needed help within a particular town/city.
 
 ## What features the project will include? 
 - Profile creation
 - Help requests listing
 - Help requests searching 
-- Sending people who required help offer messages 
-- Testimonies, certificates and helper ratings 
-- Search and preference by distance
-- Priority: age, priority field 
+- Sending help seekers help offers 
+- Testimonies and helper ratings 
+- Search and sort by distance
+- Priority flag: age, urgency, etc. 
 - Favourite help posts 
 
 ## Sketches
-A sketch (layout) PDF file is included in the ‘sketch’ folder.
+An initial sketch (layout) PDF file is in the ‘sketch’ folder.
 
 ## Data sources: 
 - MongoDB: users, jobs, helps, offers, 
@@ -32,7 +38,7 @@ Developer perspective:
 - Front end Javascript with Angular.js
 - Back end Node.js with using MEAN, Express, MongoDB 
 
-External components: 
+## External components: 
 - Google Geolocation API 
 - Google transportation API (later stage if possible)
 - Cities databases 
